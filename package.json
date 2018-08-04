@@ -1,0 +1,11 @@
+{
+  "name": "desktop_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ShionHXC/desktop_server.git",
+  "author": "____  C。 <394941259@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
